@@ -1,17 +1,14 @@
 # Smart-App-Banner
 Lightweight smart app banner with no jQuery requirement
 
+Based on 'Smart App Banner' by [Ain Tohvri](https://github.com/ain/smartbanner.js)
 
-## Features
-- Customisable Smart App banner for iOS and Android.
-- Pure JavaScript, no jQuery (14 KB in size)
-- Default [Smart App Banner](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html) like design
+## Difference
 - Fully customisable info
 - Close button that
   - closes the banner
   - sets cookie to keep banner closed for number of days
 - Platform-specific app icon URL
-- jQuery Mobile and AngularJS compliance
 - User Agent specific targeting
 
 ![smartbanner.js screenshot](https://github.com/hardweezy/Smart-App-Banner/raw/development/screenshot.png)
@@ -74,6 +71,15 @@ If you want to position smart app banner yourself (e.g. in CSS), you can disable
 ```html
 <meta name="smartbanner:disable-positioning" content="true">
 ```
+
+## Contributing
+
+Contributions are welcome and will be fully credited.
+
+We accept contributions via Pull Requests on [Github](https://github.com/hardweezy/Smart-App-Banner/tree/development).
+
+Improvements would be appreciated on the following:
+* Customize smart app banner for Windows Mobile
 
 ## Credits
 * [Ain Tohvri](https://github.com/ain/smartbanner.js) - Super Awesome
