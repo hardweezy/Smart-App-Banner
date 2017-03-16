@@ -1,5 +1,5 @@
 # Smart-App-Banner
-Lightweight smart app banner with no jQuery requirement
+SmartApp Banner for ioS and Android
 
 Based on 'Smart App Banner' by [Ain Tohvri](https://github.com/ain/smartbanner.js)
 
