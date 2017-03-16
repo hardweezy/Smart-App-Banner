@@ -19,9 +19,9 @@ Based on 'Smart App Banner' by [Ain Tohvri](https://github.com/ain/smartbanner.j
 
 ```html
 <!-- Start SmartBanner configuration -->
-<meta name="smartbanner:title" content="Smart Application">
-<meta name="smartbanner:author" content="SmartBanner Contributors">
-<meta name="smartbanner:price" content="FREE">
+<meta name="smartbanner:title" content="Application Name">
+<meta name="smartbanner:author" content="Application Author">
+<meta name="smartbanner:price" content="GET">
 <meta name="smartbanner:price-suffix-apple" content=" - On the App Store">
 <meta name="smartbanner:price-suffix-google" content=" - In Google Play">
 <meta name="smartbanner:icon-apple" content="https://url/to/apple-store-icon.png">
@@ -30,7 +30,7 @@ Based on 'Smart App Banner' by [Ain Tohvri](https://github.com/ain/smartbanner.j
 <meta name="smartbanner:button-url-apple" content="https://ios/application-url">
 <meta name="smartbanner:button-url-google" content="https://android/application-url">
 <meta name="smartbanner:enabled-platforms" content="android,ios">
-<meta name="smartbanner:days-to-hide" content="Number of Days">
+<meta name="smartbanner:days-to-hide" content="Number-of-Days">
 <!-- End SmartBanner configuration -->
 ```
 
